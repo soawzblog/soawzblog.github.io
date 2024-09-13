@@ -37,9 +37,9 @@ timezone: America/New_York # Timezone for blog posts and alike
 # 5. Collections
 collections:
   posts:
-    title: idk what to name this site # Needed for Siteleaf
+    title: secrets # Needed for Siteleaf
     output: true
-    description: "my thinks and thoughts? this is supposed to be the site description idrk" # The post list page content
+    description: "pls dont ask me to elaborate on what i post" # The post list page content
 
 # 6. Jekyll collections settings
 defaults:
