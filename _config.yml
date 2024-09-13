@@ -37,9 +37,9 @@ timezone: America/New_York # Timezone for blog posts and alike
 # 5. Collections
 collections:
   posts:
-    title: atoms thinks and thoughts # Needed for Siteleaf
+    title: idk what to name this site # Needed for Siteleaf
     output: true
-    description: "This is some sort of place where i talk about my day and vent i guess, idrk" # The post list page content
+    description: "my thinks and thoughts? this is supposed to be the site description idrk" # The post list page content
 
 # 6. Jekyll collections settings
 defaults:
@@ -58,7 +58,7 @@ defaults:
 
 # 7. Site settings
 encoding: utf-8 # Make sure the encoding is right
-title: "Garth" # Site name or title
+title: "soawzblog" # Site name or title
 logo: "/assets/logo.svg" # Site logo
 # favicon: "/favicon.ico" # Uncomment to add custom favicon, or leave as is to use site logo
 description: "Just a silly site for my silly thoughts" # Site description and default description
