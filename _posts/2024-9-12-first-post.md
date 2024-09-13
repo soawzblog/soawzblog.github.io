@@ -11,4 +11,6 @@ Now if i do anything stupid like lose access to this account or whatever, I will
 
 Nice talking to yall. This was fun typing. I hope to be back soon for my next post.
 
+[contact the maintainers](settings)
+
 Toodles <3
