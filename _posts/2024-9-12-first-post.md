@@ -1,6 +1,6 @@
 ---
 title: Hey
-category: [means](names.md)
+category: means
 ---
 
 I have no idea how this is gonna work but ima try anyways. I guess this is just a place for me to vent, the good and the bad. I still dont know if i should be making this link public and as of right now, I think that i am not going to worry about fixing my grammar and ima just type like I normally do when I message people that I talk to. Ofc if I see somthing that bothers me ima go and fix it right here as I am typing it out. I suck at spelling tho so thats just a warning.
