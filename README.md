@@ -1,62 +1,18 @@
-![preview Long Haul](/preview.jpg)
+# Welcome to SOAWZ's Blog
 
-Long Haul is a minimal jekyll theme built with SASS and focuses on long form blog posts. It is meant to be used as a starting point for a jekyll blog/website.
+## About SOAWZ
 
-If you really enjoy Long Haul and want to give me credit somewhere on the internet send or tweet out your experience with Long Haul and tag me [@brianmaierjr](https://twitter.com/brianmaierjr).
+![Touring](assets/img/touring.jpg)
 
-#### [View Demo](http://brianmaierjr.com/long-haul)
+**SOAWZ** means "Son Of A Witch Zero," and it's my main online identity. This blog is like my second home—a place where I can share my thoughts think about my experiences, and store ideas I might want to keep.
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/bd29f13b-3754-46d7-9a39-48db2e174b99/deploy-status)](https://app.netlify.com/sites/long-haul/deploys)
+### My Journey
+I've tried to run several blogs before to vent and give life updates, but never did. You can think of this as my personal diary that I've made public. My Instagram and Discord accounts connect me to about 400 people on Discord and over 200 on Instagram. I've talked to all of them in ways that matter. I'm thankful for every chat, because each one has helped me grow and learn. Some of these chats have turned into close friendships, while others were quick but still left an impression. No matter what we talked about, each person has added something special to the story of my life.
 
-## Features
+### A New Perspective
 
--   Minimal, Type Focused Design
--   Built with SASS
--   SVG Social Icons
--   Responsive Nav Menu
--   XML Feed for RSS Readers
--   Contact Form via Formspree
--   5 Post Loop with excerpt on Home Page
--   Previous / Next Post Navigation
--   Estimated Reading Time for posts
--   Stylish Drop Cap on posts
--   A Better Type Scale for all devices
--   Comments powered by Disqus
--   [Dark Mode support](https://github.com/brianmaierjr/long-haul/blob/master/preview-dark.png) via [prefers-color-scheme](https://developer.mozilla.org/en-US/docs/Web/CSS/@media/prefers-color-scheme)
+Before, I'd put off writing when I felt my situation had gotten better thinking I didn't need to express myself as much. But now I see that looking back on my past plays a key role in shaping my future. I aim to record my path jot down my ideas, and spell out my hopes so I can look at them later. There's something special about glancing back and seeing where I've been; it lets me value how far I've come and what I've picked up along the way.
 
-## Setup
+### Transparency and Identity
 
-1. [Install Jekyll](http://jekyllrb.com)
-2. Fork the [Long Haul repo](http://github.com/brianmaierjr/long-haul)
-3. Clone it
-4. [Install Bundler](http://bundler.io/)
-5. Run `bundle install`
-6. Run Jekyll Serve and Watch command`bundle exec jekyll serve -w`
-
-## Site Settings
-
-The main settings can be found inside the `_config.yml` file:
-
--   **title:** title of your site
--   **description:** description of your site
--   **url:** your url
--   **paginate:** the amount of posts displayed on homepage
--   **navigation:** these are the links in the main site navigation
--   **social** diverse social media usernames (optional)
--   **google_analytics** Google Analytics key (optional)
-
-### Header Option
-
-If you'd like your header to be larger then you can use the option below in you `config.yml` to make it take up half of the vertical space on screens 800px wide and up. _Preview image below._
-
--   **header:** large
-
-![preview Long Haul](/preview-large.png)
-
-## To use on GitHub Pages
-
-To use latest Jekyll and Jekyll Sass Converter on GitHub Pages, <a href="https://github.blog/changelog/2022-07-27-github-pages-custom-github-actions-workflows-beta/">you can now deploy to a GitHub Pages site using GitHub Actions.</a>
-
-## License
-
-This is [MIT](LICENSE) with no added caveats, so feel free to use this Jekyll theme on your site without linking back to me or using a disclaimer.
+Writing in a journal matters to me, but I don't want to keep my thoughts on my own devices. This leads to my creation of a separate identity, with its own Gmail, GitHub, and Instagram account, so I can express myself without limits. This blog aims to be my personal record and a place for anyone who happens to find it. I try to be as open as I can with my readers. By telling my story, I want to make a space where others feel okay to tell theirs too. Our unique experiences shape who we are, and I think that when we celebrate how we're different, we can understand each other better and form stronger bonds.
