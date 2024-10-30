@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Example Post Formatting"
+title:  "Figuring This Out"
 date:   2024-10-30
 description: This is an entry for Wednesday the thirtieth of October. TL;DR, (insert short sentence of the entry).
 ---
