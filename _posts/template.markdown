@@ -1,11 +1,11 @@
 ---
 layout: post
 title:  "Example Post Formatting"
-date:   2014-12-15
-description: This is a post description for meta purposes. This is also the excerpt of the article that shows up on the index/home page. Change this in the post YAML.
+date:   2024-10-30
+description: This is an entry for Wednesday the thirtieth of October. TL;DR, (insert short sentence of the entry).
 ---
 
-<p class="intro"><span class="dropcap">H</span>ello! insert intro here</p>
+<p class="intro"><span class="dropcap">H</span>ello my friend! I hope you have been having the morning/afternoon or evening that you deserve, which should always be nothing short of perfect, productive and progressive. This is an entry for Wednesday the thirtieth of October. TL;DR, (insert short sentence of the entry).</p>
 
 Cras justo odio, dapibus ac facilisis in, egestas eget quam. Curabitur blandit tempus porttitor. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec id elit non mi porta gravida at eget metus. Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum. Sed posuere consectetur est at lobortis. Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor.
 
