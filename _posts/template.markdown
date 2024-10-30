@@ -7,6 +7,10 @@ description: This is a post description for meta purposes. This is also the exce
 
 <p class="intro"><span class="dropcap">H</span>ello! insert intro here</p>
 
+Cras justo odio, dapibus ac facilisis in, egestas eget quam. Curabitur blandit tempus porttitor. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec id elit non mi porta gravida at eget metus. Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum. Sed posuere consectetur est at lobortis. Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor.
+
+<img src="/assets/img/touring.jpg" alt=""> 
+
 # Heading 1
 
 ## Heading 2
