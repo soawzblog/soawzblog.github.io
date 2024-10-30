@@ -17,7 +17,7 @@ description: This is a post description for meta purposes. This is also the exce
 
 ##### Heading 5
 
-###### Heading 6
+###### Heading Six
 
 <blockquote>Aenean lacinia bibendum nulla sed consectetur. Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum. Nulla vitae elit libero, a pharetra augue. Curabitur blandit tempus porttitor. Donec sed odio dui. Cras mattis consectetur purus sit amet fermentum.</blockquote>
 
